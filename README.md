@@ -1,2 +1,2 @@
 # nascarDriverLLFun
-Linked List practice using Nascar Driver Lineup
+Linked List practice using a Nascar Driver Lineup
