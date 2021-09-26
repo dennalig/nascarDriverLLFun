@@ -1,5 +1,5 @@
 public class nascarDriver{
-  
+  //nascar driver class
     nascarDriver next;
     int number;
     String driverName;
